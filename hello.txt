@@ -1,1 +1,3 @@
-Hello, Git!
+echo "Hello, Software Maintanance"> hello.txt
+
+echo "Welcome to CSC 4631" >> hello.txt
